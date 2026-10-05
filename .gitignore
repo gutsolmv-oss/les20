@@ -1,0 +1,12 @@
+# Папки збірки
+cmake-build-debug/
+cmake-build-release/
+
+# Папка налаштувань CLion
+.idea/
+
+# Скомпільовані файли
+*.exe
+*.o
+*.obj
+*.a
